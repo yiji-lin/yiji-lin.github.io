@@ -17,9 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I obtained my Master’s degree from the School of Cyberspace Security, Guangzhou University, under the supervision of Professor Yuan Liu. Prior to that, I received my Bachelor’s degree in Computer Science and Technology from Jiaying University. My research interests lie in network security, adversarial defense, and intelligent security systems. To date, I have published two academic papers and hold multiple patents currently under review.
+I am a third-year Master’s student in Cyberspace Institute of Advanced Technology at Guangzhou University, under the supervision of Professor Yuan Liu. Prior to that, I received my Bachelor’s degree in Computer Science and Technology from Jiaying University. My research interests lie in network security, adversarial defense, and intelligent security systems. To date, I have published two academic papers and hold multiple patents.
 
-<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 My research interest includes:
 - Multi Agent Reinforcement Learning
 - Offline Reinforcement Learning
@@ -58,23 +57,22 @@ Qingyuan Li, Chenlu Zhuansun,**Yiji Lin**(collaboration), Qingling Yang, Pengden
 </div>
 
 
-# Patents
-- [一种融合信誉与拍卖策略的数据交易市场激励方法](https://kns.cnki.net/kcms2/article/abstract?v=hEVkP-djbGxRrj3qPQD86WQUczkO1Tg7fYbDn8FwVi8R0_MSAflakis09BxAATj3uU0ntIpssLBsLh3xXkqDt_l7VHEbK2_omf1VsZT4rYsfT-MG3oYAvlIGr5z5rdu-hpHN2uWd2FEWWOUPJpIl8aT_de8uwWhIj3kH4gMrHYEHhi9ngKp8sw==&uniplatform=NZKPT&language=CHS), CN120410697A, 2025-08-01.
-刘园; 黎清源; **林义极** 等人 (已公开)
+# Patents()
+- [An Incentive Method for Data Trading Markets Integrating Reputation and Auction Strategies (translated from Chinese)](https://kns.cnki.net/kcms2/article/abstract?v=hEVkP-djbGxRrj3qPQD86WQUczkO1Tg7fYbDn8FwVi8R0_MSAflakis09BxAATj3uU0ntIpssLBsLh3xXkqDt_l7VHEbK2_omf1VsZT4rYsfT-MG3oYAvlIGr5z5rdu-hpHN2uWd2FEWWOUPJpIl8aT_de8uwWhIj3kH4gMrHYEHhi9ngKp8sw==&uniplatform=NZKPT&language=CHS), Patent No.CN120410697A, 2025-08-01. disclosed.
+Yuan Liu; Qingyuan Li; **Yiji Lin** et al. 
 
-- [蜜点地址突变决策方法、系统及可读存储介质](https://kns.cnki.net/kcms2/article/abstract?v=hEVkP-djbGz1YK4DqxzC0NH_eQ_ZaO4KyZwfy5UgeTmikxBFqsbHqS7d_89WMRbYKwrFySKWtAPc3i6sb0XdIU1aLS41WohXl1kKhEcRZTdG888L23PE9T4tFocs2y9bV1jadxa6AiortgzE8w7uAMeX-DyCyphW_YWxnPhVpfCxRQ5WtwYVgQ==&uniplatform=NZKPT&language=CHS), CN120090879A, 2025-06-03.
-田志宏; 刘园; **林义极** 等人 (已公开)
+- [Honeypot Address Mutation Decision Method, System, and Computer-Readable Storage Medium (translated from Chinese)](https://kns.cnki.net/kcms2/article/abstract?v=hEVkP-djbGz1YK4DqxzC0NH_eQ_ZaO4KyZwfy5UgeTmikxBFqsbHqS7d_89WMRbYKwrFySKWtAPc3i6sb0XdIU1aLS41WohXl1kKhEcRZTdG888L23PE9T4tFocs2y9bV1jadxa6AiortgzE8w7uAMeX-DyCyphW_YWxnPhVpfCxRQ5WtwYVgQ==&uniplatform=NZKPT&language=CHS), Patent No.CN120090879A, 2025-06-03. disclosed.
+Zhihong Tian; Yuan Liu; **Yiji Lin** et al.
 
-- [基于博弈模型的网络防御方法、系统及可读存储介质](https://kns.cnki.net/kcms2/article/abstract?v=hEVkP-djbGz1YK4DqxzC0NH_eQ_ZaO4KyZwfy5UgeTmikxBFqsbHqS7d_89WMRbYKwrFySKWtAPc3i6sb0XdIU1aLS41WohXl1kKhEcRZTdG888L23PE9T4tFocs2y9bV1jadxa6AiortgzE8w7uAMeX-DyCyphW_YWxnPhVpfCxRQ5WtwYVgQ==&uniplatform=NZKPT&language=CHS), CN119011243A, 2024-11-22.
-刘园; 田志宏; **林义极**; 黎清源 等人 （已授权）
+- [Network Defense Method, System, and Computer-Readable Storage Medium Based on Game-Theoretic Models (translated from Chinese)](https://kns.cnki.net/kcms2/article/abstract?v=hEVkP-djbGz1YK4DqxzC0NH_eQ_ZaO4KyZwfy5UgeTmikxBFqsbHqS7d_89WMRbYKwrFySKWtAPc3i6sb0XdIU1aLS41WohXl1kKhEcRZTdG888L23PE9T4tFocs2y9bV1jadxa6AiortgzE8w7uAMeX-DyCyphW_YWxnPhVpfCxRQ5WtwYVgQ==&uniplatform=NZKPT&language=CHS), Patent No.CN119011243A, 2024-11-22. granted
+Yuan Liu; Zhihong Tian; **Yiji lin**; Qingyuan Li et al.
 	
-- [一种基于信号博弈的网络安全防护方法](https://kns.cnki.net/kcms2/article/abstract?v=hEVkP-djbGz1YK4DqxzC0NH_eQ_ZaO4KyZwfy5UgeTmikxBFqsbHqUwBv-3pd9pKEEvCZGR5o-Zt2v1rl-TqyUC_eNVVTlcCmf7z1GSiYqQdLownzErH4H9v5xpjzyBmgl2eAMz_KQHMTx8dCWUoD3Bn4PzDyrsBFY9Tq5Cor_TDhLGCf1Maiw==&uniplatform=NZKPT&language=CHS), CN118764267A, 2024-10-11.
-田志宏; 方滨兴; 刘园; 孙龙宇; **林义极** 等人 (已公开)
-
+- [A Network Security Protection Method Based on Signaling Games (translated from Chinese)](https://kns.cnki.net/kcms2/article/abstract?v=hEVkP-djbGz1YK4DqxzC0NH_eQ_ZaO4KyZwfy5UgeTmikxBFqsbHqUwBv-3pd9pKEEvCZGR5o-Zt2v1rl-TqyUC_eNVVTlcCmf7z1GSiYqQdLownzErH4H9v5xpjzyBmgl2eAMz_KQHMTx8dCWUoD3Bn4PzDyrsBFY9Tq5Cor_TDhLGCf1Maiw==&uniplatform=NZKPT&language=CHS), Patent No.CN118764267A, 2024-10-11. disclosed
+Zhihong Tian; Binxing Fang; Yuan Liu; Longyu sun; **Yiji Lin** et al. 
 # Software Copyright
-  Guangzhou University, 盾立方-信誉系统2.0, 2025SR1695922, Authorized. 
+  Guangzhou University, Shield Cube-Reputation System 2.0(translated from Chinese), 2025SR1695922, Authorized. 
 
 #  Honors and Awards
-- *2024.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.10* The First Prize Scholarship in Guangzhou University.
+- *2025.01* Topsec Academician Fang Binxing Class Scholarship. 
 
