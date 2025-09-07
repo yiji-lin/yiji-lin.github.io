@@ -20,14 +20,10 @@ redirect_from:
 I am a third-year Master’s student in Cyberspace Institute of Advanced Technology at Guangzhou University, under the supervision of Professor Yuan Liu. Prior to that, I received my Bachelor’s degree in Computer Science and Technology from Jiaying University. My research interests lie in network security, adversarial defense, and intelligent security systems. To date, I have published two academic papers and hold multiple patents.
 
 My research interest includes:
-- Multi Agent Reinforcement Learning
-- Offline Reinforcement Learning
-- Incentive Mechanism
-- Reputation System
-- Game Thoery
-- Graph Inference
-- Cybersecurity
-
+- Multi Agent / offline Reinforcement Learning （adversarial）
+- Mechanism Disign（Game Thoery, Incentive Mechanism and Reputation System）
+- Network Optimization and Graph Inference
+- Cybersecurity application
 
 # Educations
 - *2023.09 - present*, Cyberspace Institute of Advanced Technology (CIAT), Guangzhou University, Guangzhou, China. 
@@ -57,18 +53,31 @@ Qingyuan Li, Chenlu Zhuansun,**Yiji Lin**(collaboration), Qingling Yang, Pengden
 </div>
 
 
-# Patents()
-- [An Incentive Method for Data Trading Markets Integrating Reputation and Auction Strategies (translated from Chinese)](https://kns.cnki.net/kcms2/article/abstract?v=hEVkP-djbGxRrj3qPQD86WQUczkO1Tg7fYbDn8FwVi8R0_MSAflakis09BxAATj3uU0ntIpssLBsLh3xXkqDt_l7VHEbK2_omf1VsZT4rYsfT-MG3oYAvlIGr5z5rdu-hpHN2uWd2FEWWOUPJpIl8aT_de8uwWhIj3kH4gMrHYEHhi9ngKp8sw==&uniplatform=NZKPT&language=CHS), Patent No.CN120410697A, 2025-08-01. disclosed.
-Yuan Liu; Qingyuan Li; **Yiji Lin** et al. 
+# Patents
 
-- [Honeypot Address Mutation Decision Method, System, and Computer-Readable Storage Medium (translated from Chinese)](https://kns.cnki.net/kcms2/article/abstract?v=hEVkP-djbGz1YK4DqxzC0NH_eQ_ZaO4KyZwfy5UgeTmikxBFqsbHqS7d_89WMRbYKwrFySKWtAPc3i6sb0XdIU1aLS41WohXl1kKhEcRZTdG888L23PE9T4tFocs2y9bV1jadxa6AiortgzE8w7uAMeX-DyCyphW_YWxnPhVpfCxRQ5WtwYVgQ==&uniplatform=NZKPT&language=CHS), Patent No.CN120090879A, 2025-06-03. disclosed.
-Zhihong Tian; Yuan Liu; **Yiji Lin** et al.
+- Yuan Liu; **Yiji Lin** et al. A Method for IP Reputation Assessment Integrating Macro- and Micro-Level TTP Behaviors(translated from Chinese), 2025-08-27. submited.
 
-- [Network Defense Method, System, and Computer-Readable Storage Medium Based on Game-Theoretic Models (translated from Chinese)](https://kns.cnki.net/kcms2/article/abstract?v=hEVkP-djbGz1YK4DqxzC0NH_eQ_ZaO4KyZwfy5UgeTmikxBFqsbHqS7d_89WMRbYKwrFySKWtAPc3i6sb0XdIU1aLS41WohXl1kKhEcRZTdG888L23PE9T4tFocs2y9bV1jadxa6AiortgzE8w7uAMeX-DyCyphW_YWxnPhVpfCxRQ5WtwYVgQ==&uniplatform=NZKPT&language=CHS), Patent No.CN119011243A, 2024-11-22. granted
-Yuan Liu; Zhihong Tian; **Yiji lin**; Qingyuan Li et al.
+- Zhihong Tian, Yuan Liu; **Yiji Lin** et al. Offline Reinforcement Learning-Based Optimization of Deception Defense Strategies(translated from Chinese), Patent No.202511144907.X, 2025-08-15. Application acceptance.
+
+- Yuan Liu; **Yiji Lin** et al. Graph Inference for Malicious Entity Detection Based on Subjective Logic Reputation Propagation(translated from Chinese), 2025-08-01. Under examination.
+
+- Yuan Liu; **Yiji Lin** et al. Early Detection of Cyberattack on Critical Activities (translated from Chinese) , 2025-07-11. Under examination.
+
+
+
+- Yuan Liu; Qingyuan Li; **Yiji Lin** et al. [An Incentive Method for Data Trading Markets Integrating Reputation and Auction Strategies (translated from Chinese)](https://kns.cnki.net/kcms2/article/abstract?v=hEVkP-djbGxRrj3qPQD86WQUczkO1Tg7fYbDn8FwVi8R0_MSAflakis09BxAATj3uU0ntIpssLBsLh3xXkqDt_l7VHEbK2_omf1VsZT4rYsfT-MG3oYAvlIGr5z5rdu-hpHN2uWd2FEWWOUPJpIl8aT_de8uwWhIj3kH4gMrHYEHhi9ngKp8sw==&uniplatform=NZKPT&language=CHS), Patent No.CN120410697A, 2025-08-01. disclosed.
+
+
+
+- Zhihong Tian; Yuan Liu; **Yiji Lin** et al.[Honeypot Address Mutation Decision Method, System, and Computer-Readable Storage Medium (translated from Chinese)](https://kns.cnki.net/kcms2/article/abstract?v=hEVkP-djbGz1YK4DqxzC0NH_eQ_ZaO4KyZwfy5UgeTmikxBFqsbHqS7d_89WMRbYKwrFySKWtAPc3i6sb0XdIU1aLS41WohXl1kKhEcRZTdG888L23PE9T4tFocs2y9bV1jadxa6AiortgzE8w7uAMeX-DyCyphW_YWxnPhVpfCxRQ5WtwYVgQ==&uniplatform=NZKPT&language=CHS), Patent No.CN120090879A, 2025-06-03. disclosed.
+
+
+
+- Yuan Liu; Zhihong Tian; **Yiji lin**; Qingyuan Li et al.[Network Defense Method, System, and Computer-Readable Storage Medium Based on Game-Theoretic Models (translated from Chinese)](https://kns.cnki.net/kcms2/article/abstract?v=hEVkP-djbGz1YK4DqxzC0NH_eQ_ZaO4KyZwfy5UgeTmikxBFqsbHqS7d_89WMRbYKwrFySKWtAPc3i6sb0XdIU1aLS41WohXl1kKhEcRZTdG888L23PE9T4tFocs2y9bV1jadxa6AiortgzE8w7uAMeX-DyCyphW_YWxnPhVpfCxRQ5WtwYVgQ==&uniplatform=NZKPT&language=CHS), Patent No.CN119011243A, 2024-11-22. granted
+
 	
-- [A Network Security Protection Method Based on Signaling Games (translated from Chinese)](https://kns.cnki.net/kcms2/article/abstract?v=hEVkP-djbGz1YK4DqxzC0NH_eQ_ZaO4KyZwfy5UgeTmikxBFqsbHqUwBv-3pd9pKEEvCZGR5o-Zt2v1rl-TqyUC_eNVVTlcCmf7z1GSiYqQdLownzErH4H9v5xpjzyBmgl2eAMz_KQHMTx8dCWUoD3Bn4PzDyrsBFY9Tq5Cor_TDhLGCf1Maiw==&uniplatform=NZKPT&language=CHS), Patent No.CN118764267A, 2024-10-11. disclosed
-Zhihong Tian; Binxing Fang; Yuan Liu; Longyu sun; **Yiji Lin** et al. 
+- Zhihong Tian; Binxing Fang; Yuan Liu; Longyu sun; **Yiji Lin** et al. [A Network Security Protection Method Based on Signaling Games (translated from Chinese)](https://kns.cnki.net/kcms2/article/abstract?v=hEVkP-djbGz1YK4DqxzC0NH_eQ_ZaO4KyZwfy5UgeTmikxBFqsbHqUwBv-3pd9pKEEvCZGR5o-Zt2v1rl-TqyUC_eNVVTlcCmf7z1GSiYqQdLownzErH4H9v5xpjzyBmgl2eAMz_KQHMTx8dCWUoD3Bn4PzDyrsBFY9Tq5Cor_TDhLGCf1Maiw==&uniplatform=NZKPT&language=CHS), Patent No.CN118764267A, 2024-10-11. disclosed
+
 # Software Copyright
   Guangzhou University, Shield Cube-Reputation System 2.0(translated from Chinese), 2025SR1695922, Authorized. 
 
