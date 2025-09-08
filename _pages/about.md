@@ -33,7 +33,7 @@ My research interest includes:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review TCSS 2025 JCR:Q1</div><img src='images/paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[HoneyCenter: A Honeypoint IP Mutation Strategy Optimization Based on Multi-Agent Reinforcement Learning]()
+**HoneyCenter: A Honeypoint IP Mutation Strategy Optimization Based on Multi-Agent Reinforcement Learning**
 
 Pengdeng Li$^+$, **Yiji Lin$^+$**(equal contribution), Chenlu Zhuansun, Binxing Fang, Yuan Liu$^\*$, Zhihong Tian$^\*$.
 
@@ -48,7 +48,7 @@ Abstract:APTs (Advanced Persistent Threats) on critical infrastructure such as s
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Accepted by IEEE DSC 2025</div><img src='images/paper2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[When Reputation Meets Auction: A Dual Incentive Mechanism for Mitigating Clean Label Attack in Data Trading Markets]()
+**When Reputation Meets Auction: A Dual Incentive Mechanism for Mitigating Clean Label Attack in Data Trading Markets**
 
 Qingyuan Li, Chenlu Zhuansun,**Yiji Lin**(collaboration), Qingling Yang, Pengdeng Li, Yuan Liu$^\*$, Zhihong Tian.
 
