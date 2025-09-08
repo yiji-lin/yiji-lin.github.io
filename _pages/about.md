@@ -82,8 +82,14 @@ Abstract：The data trading markets are increasingly vulnerable to clean-label a
 	
 - Zhihong Tian; Binxing Fang; Yuan Liu; Longyu sun; **Yiji Lin** et al. [A Network Security Protection Method Based on Signaling Games (translated from Chinese)](https://kns.cnki.net/kcms2/article/abstract?v=hEVkP-djbGz1YK4DqxzC0NH_eQ_ZaO4KyZwfy5UgeTmikxBFqsbHqUwBv-3pd9pKEEvCZGR5o-Zt2v1rl-TqyUC_eNVVTlcCmf7z1GSiYqQdLownzErH4H9v5xpjzyBmgl2eAMz_KQHMTx8dCWUoD3Bn4PzDyrsBFY9Tq5Cor_TDhLGCf1Maiw==&uniplatform=NZKPT&language=CHS), Patent No.CN118764267A, 2024-10-11. disclosed
 
+# Project
+**Reputation System in ShieldCube**
+
+  Designed and implemented the Reputation System in ShieldCube. ShieldCube led by Academician Binxing Fang, has been deployed in critical events (such as Canton Fair, Asian Games, Winter Asian Games, etc.) and leading enterprises(such as China Southern Power Grid, etc.)
+  
+
 # Software Copyright
-  Guangzhou University, Shield Cube-Reputation System 2.0(translated from Chinese), 2025SR1695922, Authorized. 
+  Guangzhou University, ShieldCube-Reputation System 2.0(translated from Chinese), 2025SR1695922, Authorized. 
 
 #  Honors and Awards
 - *2024.10* The First Prize Scholarship in Guangzhou University.
