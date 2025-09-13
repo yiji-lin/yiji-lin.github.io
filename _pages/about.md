@@ -30,12 +30,12 @@ My research interest includes:
 - *2020.09 - 2022.06*, School of Computer Science, Jiaying University, Meizhou, China. 
 
 # Papers
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">On Progress in SCIS 2025 JCR:Q1 IF:7.6 CCF-A</div><img src='images/paper3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">To be submitted to SCIS 2025 JCR:Q1 IF:7.6 CCF-A</div><img src='images/paper3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **No Answer Puzzle: Curious IP Entrapment Mechanism for Critical Event Protection via Advance Deception**
 
-Chenlu Zhuansun$\dag$, **Yiji Lin$\dag$**(equal contribution), Yuan Liu$^\*$, Binxing Fang, Zhihong Tian$^\*$.
+Chenlu Zhuansun$^\dag$, **Yiji Lin$^\dag$**(equal contribution), Yuan Liu$^\*$, Binxing Fang, Zhihong Tian$^\*$.
 
 **Abstract**: With the rapid evolution of cyberattack techniques and the increasing level of automation, Major Protection Activities (MPA) are facing escalating and complex cybersecurity challenges. Modern attack behaviors are characterized by high speed, broad-spectrum reconnaissance, and strong stealth, which expose the limitations of traditional defense mechanisms—such as narrow response windows, delayed risk identification, and large system exposure surfaces. MPA demand high availability and openness of key systems, rendering conventional deception strategies insufficient for real-time and high-intensity protection requirements.
 In this paper, we propose a preemptive deception defense mechanism based on the mechanism of "No Answer Puzzle". The mechanism deploys a multi-module, high-interaction deceptive system in a cloud environment, leveraging principles from motivational psychology to drive attacker to unknowingly engage in deep, sustained exploration of the deception system. Furthermore, we propose a behavioral modeling approach that quantifies attacker curiosity, thereby enhancing the prediction of potential threats.
