@@ -34,7 +34,10 @@ My research interest includes:
   <div class='paper-box-image'>
     <div>
       <div class="badge">To be submitted to SCIS 2025 JCR:Q1 IF:7.6 CCF-A</div>
-        <img src='images/paper3.png' alt="sym" width="100%" height="500px" object-fit="contain">
+        <div style="width:100%;height:500px; background:white;">
+          <img src="images/paper3.png" alt="sym" 
+              style="width:100%; height:100%; object-fit:contain; background:white;">
+        </div>
       </div>
     </div>
 <div class='paper-box-text' markdown="1">
