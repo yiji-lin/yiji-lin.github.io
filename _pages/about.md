@@ -20,8 +20,8 @@ redirect_from:
 I am a third-year Master’s student in Cyberspace Institute of Advanced Technology at Guangzhou University, under the supervision of Professor Yuan Liu. Prior to that, I received my Bachelor’s degree in Computer Science and Technology from Jiaying University. My research interests lie in network security, adversarial defense, and intelligent security systems. To date, I have published two academic papers and hold multiple patents.
 
 My research interest includes:
-- Multi Agent / offline Reinforcement Learning （adversarial）
-- Mechanism Disign（Game Thoery, Incentive Mechanism and Reputation System）
+- Multi Agent / offline Reinforcement Learning
+- Mechanism Disign (Game Thoery, Incentive Mechanism and Reputation System)
 - Network Optimization and Graph Inference
 - Cybersecurity application
 
