@@ -44,7 +44,7 @@ My research interest includes:
 
 **No Answer Puzzle: Curious IP Entrapment Mechanism for Critical Event Protection via Advance Deception**
 
-Chenlu Zhuansun$^&dagger;$, **Yiji Lin$^&dagger;$**(equal contribution), Yuan Liu$^\*$, Binxing Fang, Zhihong Tian$^\*$.
+Chenlu Zhuansun$^&dagger;$, **Yiji Lin$^&dagger;$**(Co-First author), Yuan Liu$^\*$, Binxing Fang, Zhihong Tian$^\*$.
 
 **Abstract**: With the rapid evolution of cyberattack techniques and the increasing level of automation, Major Protection Activities (MPA) are facing escalating and complex cybersecurity challenges. Modern attack behaviors are characterized by high speed, broad-spectrum reconnaissance, and strong stealth, which expose the limitations of traditional defense mechanisms—such as narrow response windows, delayed risk identification, and large system exposure surfaces. MPA demand high availability and openness of key systems, rendering conventional deception strategies insufficient for real-time and high-intensity protection requirements.
 In this paper, we propose a preemptive deception defense mechanism based on the mechanism of "No Answer Puzzle". The mechanism deploys a multi-module, high-interaction deceptive system in a cloud environment, leveraging principles from motivational psychology to drive attacker to unknowingly engage in deep, sustained exploration of the deception system. Furthermore, we propose a behavioral modeling approach that quantifies attacker curiosity, thereby enhancing the prediction of potential threats.
@@ -55,12 +55,15 @@ The proposed system effectively reduces the exposure risk of real services witho
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review TCSS 2025 JCR:Q1 IF:4.9</div><img src='images/paper1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review TCSS 2025 JCR:Q1 IF:4.9</div>        <div style="width:100%;height:500px; background:white;">
+          <img src="images/paper1.png" alt="sym" 
+              style="width:100%; height:100%; object-fit:contain; background:white;">
+        </div></div></div>
 <div class='paper-box-text' markdown="1">
 
 **HoneyCenter: A Honeypoint IP Mutation Strategy Optimization Based on Multi-Agent Reinforcement Learning**
 
-Pengdeng Li$^+$, **Yiji Lin$^+$**(equal contribution), Chenlu Zhuansun, Binxing Fang, Yuan Liu$^\*$, Zhihong Tian$^\*$.
+Pengdeng Li$^+$, **Yiji Lin$^+$**(Co-First author), Chenlu Zhuansun, Binxing Fang, Yuan Liu$^\*$, Zhihong Tian$^\*$.
 
 **Abstract**: APTs (Advanced Persistent Threats) on critical infrastructure such as smart grids and industrial control systems are growing increasingly severe. Although honeypoints, such as honeypots and honeybaits, have been widely adopted in cybersecurity, they still struggle to counter APTs as they can intelligently adjust strategies based on the current state of the system. Mutating the IP addresses of honeypoints has been recognized as an effective method for defending against various cyber attacks. However, in critical infrastructure, mutating the IP addresses requires careful design since improper strategy could lead to system instability or high costs such as service delay or interruption. Consequently, the defender needs to design a cost-effective honeypoint IP mutation strategy under the consideration of rational and smart APT attackers who can also adjust their attack strategies adaptively. To this end, first, we propose a dynamic two-player zero-sum game model \textit{HoneyCenter} to characterize the strategic interaction between the defender and the attacker, where, in each state, the defender determines which host the honeypoint IP address should transition to, while the attacker selects one of the hosts to attack. Then, we leverage the Minimax Q-learning algorithm to derive the optimal mutation strategy to maximize the defender's utility in capturing the attacker. Finally, through extensive experiments, we demonstrate that the proposed game model and the derived IP mutation strategy can significantly enhance the security of the critical infrastructure in a cost-effective manner.
 
@@ -70,12 +73,15 @@ Pengdeng Li$^+$, **Yiji Lin$^+$**(equal contribution), Chenlu Zhuansun, Binxing 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Accepted by IEEE DSC 2025</div><img src='images/paper2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Accepted by IEEE DSC 2025</div>        <div style="width:100%;height:500px; background:white;">
+          <img src="images/paper2.png" alt="sym" 
+              style="width:100%; height:100%; object-fit:contain; background:white;">
+        </div></div></div>
 <div class='paper-box-text' markdown="1">
 
 **When Reputation Meets Auction: A Dual Incentive Mechanism for Mitigating Clean Label Attack in Data Trading Markets**
 
-Qingyuan Li, Chenlu Zhuansun,**Yiji Lin**(collaboration), Qingling Yang, Pengdeng Li, Yuan Liu$^\*$, Zhihong Tian.
+Qingyuan Li$^&dagger;$, Chenlu Zhuansun$^&dagger;$,**Yiji Lin**(collaboration), Qingling Yang, Pengdeng Li, Yuan Liu$^\*$, Zhihong Tian.
 
 **Abstract**: The data trading markets are increasingly vulnerable to clean-label attacks, where attackers provide poisoned data through manipulating the feature space of a target object instead of directly altering the target object labels such that trained models make undesirable decisions about the target object. Existing defenses whether high-precision poisoning filters or adversarial-training pipelines are locked in the same asymmetric arms race: attackers can refine perturbations at near zero marginal cost, while defenders must continually retrain, revalidate, and redeploy. Finally, escalating resource burden erodes market trust and resulting in the failure of the whole data markets. To overcome the challenges, we propose a dual incentive mechanism that integrates reputation systems with multi-attribute reverse auctions to mitigate the clean-label attack, where the attackers are less likely to be selected and their data price is also discounted. Specifically, we construct the reputation of data providers based on their clean-attack verification history, which is designed in a hard-to-build but easy-to-crush manner to capture long-term attacking behavior. Then, we formulate the optimal auction problem based on reputation. Furthermore, we design a multi-attribute reverse auction mechanism to effectively incentivize and penalize, thereby preventing clean label attack behaviors. Finally, theoretical analyses and simulations quantitatively demonstrate that the proposed dual incentive mechanism can create a safer data trading markets.
 </div>
