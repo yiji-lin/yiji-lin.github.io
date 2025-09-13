@@ -30,7 +30,7 @@ My research interest includes:
 - *2020.09 - 2022.06*, School of Computer Science, Jiaying University, Meizhou, China. 
 
 # Papers
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">To be submitted to SCIS 2025 JCR:Q1 IF:7.6 CCF-A</div><img src='images/paper3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">To be submitted to SCIS 2025 JCR:Q1 IF:7.6 CCF-A</div><img src='images/paper3.png' alt="sym" width="100%" height="500px"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **No Answer Puzzle: Curious IP Entrapment Mechanism for Critical Event Protection via Advance Deception**
