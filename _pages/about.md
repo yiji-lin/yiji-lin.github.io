@@ -17,13 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year Master’s student in Cyberspace Institute of Advanced Technology at Guangzhou University, under the supervision of Professor Yuan Liu. Prior to that, I received my Bachelor’s degree in Computer Science and Technology from Jiaying University. My research interests lie in network security, adversarial defense, and intelligent security systems. To date, I have published two academic papers and hold multiple patents.
+I am a third-year Master’s student in Cyberspace Institute of Advanced Technology at Guangzhou University, under the supervision of [Prof. Yuan Liu](https://www.blockchain-neu.com/). Prior to that, I received my Bachelor’s degree in Computer Science and Technology from Jiaying University. My research interests lie in network security, adversarial defense, and intelligent security systems. To date, I have published two academic papers and hold multiple patents.
 
 My research interest includes:
-- Multi Agent / offline Reinforcement Learning
-- Mechanism Disign (Game Thoery, Incentive Mechanism and Reputation System)
-- Network Optimization and Graph Inference
-- Cybersecurity application
+- Game Theory and Mechanism Design for Network Security
+- Multi Agent Reinforcement Learning
+- Cybersecurity
 
 # Educations
 - *2023.09 - present*, Cyberspace Institute of Advanced Technology (CIAT), Guangzhou University, Guangzhou, China. 
@@ -63,7 +62,7 @@ Chenlu Zhuansun$^&dagger;$, **Yiji Lin$^&dagger;$**(Co-First author), Yuan Liu$^
 
 Pengdeng Li$^+$, **Yiji Lin$^+$**(Co-First author), Chenlu Zhuansun, Binxing Fang, Yuan Liu$^\*$, Zhihong Tian$^\*$.
 
-**Abstract**: APTs (Advanced Persistent Threats) on critical infrastructure such as smart grids and industrial control systems are growing increasingly severe. Although honeypoints, such as honeypots and honeybaits, have been widely adopted in cybersecurity, they still struggle to counter APTs as they can intelligently adjust strategies based on the current state of the system. Mutating the IP addresses of honeypoints has been recognized as an effective method for defending against various cyber attacks. However, in critical infrastructure, mutating the IP addresses requires careful design since improper strategy could lead to system instability or high costs such as service delay or interruption. Consequently, the defender needs to design a cost-effective honeypoint IP mutation strategy under the consideration of rational and smart APT attackers who can also adjust their attack strategies adaptively. To this end, first, we propose a dynamic two-player zero-sum game model \textit{HoneyCenter} to characterize the strategic interaction between the defender and the attacker, where, in each state, the defender determines which host the honeypoint IP address should transition to, while the attacker selects one of the hosts to attack. Then, we leverage the Minimax Q-learning algorithm to derive the optimal mutation strategy to maximize the defender's utility in capturing the attacker. Finally, through extensive experiments, we demonstrate that the proposed game model and the derived IP mutation strategy can significantly enhance the security of the critical infrastructure in a cost-effective manner.
+**Abstract**: APTs (Advanced Persistent Threats) on critical infrastructure such as smart grids and industrial control systems are growing increasingly severe. Although honeypoints, such as honeypots and honeybaits, have been widely adopted in cybersecurity, they still struggle to counter APTs as they can intelligently adjust strategies based on the current state of the system. Mutating the IP addresses of honeypoints has been recognized as an effective method for defending against various cyber attacks. However, in critical infrastructure, mutating the IP addresses requires careful design since improper strategy could lead to system instability or high costs such as service delay or interruption. Consequently, the defender needs to design a cost-effective honeypoint IP mutation strategy under the consideration of rational and smart APT attackers who can also adjust their attack strategies adaptively. To this end, first, we propose a dynamic two-player zero-sum game model HoneyCenter to characterize the strategic interaction between the defender and the attacker, where, in each state, the defender determines which host the honeypoint IP address should transition to, while the attacker selects one of the hosts to attack. Then, we leverage the Minimax Q-learning algorithm to derive the optimal mutation strategy to maximize the defender's utility in capturing the attacker. Finally, through extensive experiments, we demonstrate that the proposed game model and the derived IP mutation strategy can significantly enhance the security of the critical infrastructure in a cost-effective manner.
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
@@ -79,7 +78,7 @@ Pengdeng Li$^+$, **Yiji Lin$^+$**(Co-First author), Chenlu Zhuansun, Binxing Fan
 
 **When Reputation Meets Auction: A Dual Incentive Mechanism for Mitigating Clean Label Attack in Data Trading Markets**
 
-Qingyuan Li$^&dagger;$, Chenlu Zhuansun$^&dagger;$,**Yiji Lin**(collaboration), Qingling Yang, Pengdeng Li, Yuan Liu$^\*$, Zhihong Tian.
+Qingyuan Li$^&dagger;$, Chenlu Zhuansun$^&dagger;$,**Yiji Lin**, Qingling Yang, Pengdeng Li, Yuan Liu$^\*$, Zhihong Tian.
 
 **Abstract**: The data trading markets are increasingly vulnerable to clean-label attacks, where attackers provide poisoned data through manipulating the feature space of a target object instead of directly altering the target object labels such that trained models make undesirable decisions about the target object. Existing defenses whether high-precision poisoning filters or adversarial-training pipelines are locked in the same asymmetric arms race: attackers can refine perturbations at near zero marginal cost, while defenders must continually retrain, revalidate, and redeploy. Finally, escalating resource burden erodes market trust and resulting in the failure of the whole data markets. To overcome the challenges, we propose a dual incentive mechanism that integrates reputation systems with multi-attribute reverse auctions to mitigate the clean-label attack, where the attackers are less likely to be selected and their data price is also discounted. Specifically, we construct the reputation of data providers based on their clean-attack verification history, which is designed in a hard-to-build but easy-to-crush manner to capture long-term attacking behavior. Then, we formulate the optimal auction problem based on reputation. Furthermore, we design a multi-attribute reverse auction mechanism to effectively incentivize and penalize, thereby preventing clean label attack behaviors. Finally, theoretical analyses and simulations quantitatively demonstrate that the proposed dual incentive mechanism can create a safer data trading markets.
 </div>
@@ -112,13 +111,13 @@ Qingyuan Li$^&dagger;$, Chenlu Zhuansun$^&dagger;$,**Yiji Lin**(collaboration), 
 - Zhihong Tian; Binxing Fang; Yuan Liu; Longyu sun; **Yiji Lin** et al. [A Network Security Protection Method Based on Signaling Games (Translated from Chinese)](https://kns.cnki.net/kcms2/article/abstract?v=hEVkP-djbGz1YK4DqxzC0NH_eQ_ZaO4KyZwfy5UgeTmikxBFqsbHqUwBv-3pd9pKEEvCZGR5o-Zt2v1rl-TqyUC_eNVVTlcCmf7z1GSiYqQdLownzErH4H9v5xpjzyBmgl2eAMz_KQHMTx8dCWUoD3Bn4PzDyrsBFY9Tq5Cor_TDhLGCf1Maiw==&uniplatform=NZKPT&language=CHS), No.CN118764267A, 2024-10-11. Disclosed.
 
 # Project
-- **Reputation System in ShieldCube** (Main Developer)
+- **Reputation System in DunLiFang** (Main Developer)
 
-   Designed and implemented the Reputation System in ShieldCube. ShieldCube led by Academician Binxing Fang, has been deployed in critical events (such as Canton Fair, Asian Games, Winter Asian Games, etc.) and leading enterprises(such as China Southern Power Grid, etc.)
+   Designed and implemented the Reputation System in DunLiFang. DunLiFang led by Academician Binxing Fang, has been deployed in critical events (such as Canton Fair, Asian Games, Winter Asian Games, etc.) and leading enterprises(such as China Southern Power Grid, etc.)
   
 
 # Software Copyright
-- Guangzhou University, ShieldCube-Reputation System 2.0(Translated from Chinese), 2025SR1695922, Authorized. 
+- Guangzhou University, DunLiFang-Reputation System 2.0(Translated from Chinese), 2025SR1695922, Authorized. 
 
 #  Honors and Awards
 - *2024.10* The First Prize Scholarship in Guangzhou University.
