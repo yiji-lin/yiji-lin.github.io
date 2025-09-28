@@ -17,18 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year Master’s student in Cyberspace Institute of Advanced Technology at Guangzhou University, under the supervision of [Prof. Yuan Liu](https://www.blockchain-neu.com/). Prior to that, I received my Bachelor’s degree in Computer Science and Technology from Jiaying University. My research interests lie in network security, adversarial defense, and intelligent security systems. To date, I have published two academic papers and hold multiple patents.
+I am a third-year Master’s student in Cyberspace Institute of Advanced Technology (headed by Academician Binxing Fang) at Guangzhou University, advised by [Prof. Yuan Liu](https://www.blockchain-neu.com/). Prior to that, I received my Bachelor’s degree in Computer Science and Technology from Jiaying University. My research interests lie in network security, adversarial defense, and intelligent security systems. To date, I have published two academic papers and hold multiple patents.
 
 My research interest includes:
-- Game Theory and Mechanism Design for Network Security
+- Game Theory and Mechanism Design 
+- Reputation Systems
 - Multi Agent Reinforcement Learning
-- Cybersecurity
+- Network Security
 
-# Educations
+# Education Background
 - *2023.09 - present*, Cyberspace Institute of Advanced Technology (CIAT), Guangzhou University, Guangzhou, China. 
 - *2020.09 - 2022.06*, School of Computer Science, Jiaying University, Meizhou, China. 
 
-# Papers
+# Publications
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -119,7 +120,15 @@ Qingyuan Li$^&dagger;$, Chenlu Zhuansun$^&dagger;$,**Yiji Lin**, Qingling Yang, 
 # Software Copyright
 - Guangzhou University, DunLiFang-Reputation System 2.0(Translated from Chinese), 2025SR1695922, Authorized. 
 
-#  Honors and Awards
+#  Awards
 - *2024.10* The First Prize Scholarship in Guangzhou University.
 - *2025.01* Topsec Academician Fang Binxing Class Scholarship. 
 
+#  Research Funding Supports
+- National Key R&D Program of Smart Grid, Grant No.2025ZD0805904.
+- Guangdong Basic and Applied Basic Research Foundation, Grant No.2025B1515020022.
+- National Natural Science Foundation of China, Grant No. T252200258.
+- National Key R&D Program of China, Grant No. 2022YFB3102700.
+- National Natural Science Foundation of China, Grant No.62172085.
+- National Natural Science Foundation of China, Grant No.U20B2046.
+- Strategic Research and Consultation Project of the Chinese Academy of Engineering, Grant No.2024-XZ-07.
