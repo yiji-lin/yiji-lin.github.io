@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year Master’s student in Cyberspace Institute of Advanced Technology (headed by Academician Binxing Fang) at Guangzhou University, advised by [Prof. Yuan Liu](https://www.blockchain-neu.com/). Prior to that, I received my Bachelor’s degree in Computer Science and Technology from Jiaying University. My research interests lie in network security, adversarial defense, and intelligent security systems. To date, I have published two academic papers and hold multiple patents.
+I am a third-year Master’s student in Cyberspace Institute of Advanced Technology (headed by [Academician Binxing Fang](https://wyy.gzhu.edu.cn/info/1036/1459.html)) at Guangzhou University, advised by [Prof. Yuan Liu](https://www.blockchain-neu.com/). Prior to that, I received my Bachelor’s degree in Computer Science and Technology from Jiaying University. My research interests lie in network security, adversarial defense, and intelligent security systems. To date, I have completed three academic papers and hold several patents.
 
 My research interest includes:
 - Game Theory and Mechanism Design 

@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Yiji-Lin"
 description              : "Cyber Institute of Advanced Technology (Fang’s Experimental Graduate Program)"
-repository               : "RayeRen/acad-homepage.github.io"
+repository               : #"RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
