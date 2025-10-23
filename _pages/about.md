@@ -121,8 +121,8 @@ Qingyuan Li$^&dagger;$, Chenlu Zhuansun$^&dagger;$,**Yiji Lin**, Qingling Yang, 
 - Guangzhou University, DunLiFang-Reputation System 2.0(Translated from Chinese), 2025SR1695922, Authorized. 
 
 #  Awards
+- *2025.10* China National Scholarship. 
 - *2024.10* The First Prize Scholarship in Guangzhou University.
-- *2025.01* Topsec Academician Fang Binxing Class Scholarship. 
 
 #  Research Funding Supports
 - National Key R&D Program of Smart Grid, Grant No.2025ZD0805904.
