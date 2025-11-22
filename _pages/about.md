@@ -33,7 +33,7 @@ My research interest includes:
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">To be submitted to SCIS 2025 JCR:Q1 IF:7.6 CCF-A</div>
+      <div class="badge">Under Review SCIS 2025 JCR:Q1 IF:7.6 CCF-A</div>
         <div style="width:100%;height:500px; background:white;">
           <img src="images/paper3.png" alt="sym" 
               style="width:100%; height:100%; object-fit:contain; background:white;">
@@ -42,11 +42,16 @@ My research interest includes:
     </div>
 <div class='paper-box-text' markdown="1">
 
-**No Answer Puzzle: Curious IP Entrapment Mechanism for Critical Event Protection via Advance Deception**
+**No Answer Puzzle: A Curiosity-Driven Attacker Model and Motivation Inference for APT in Cybersecurity of Major Events**
 
 Chenlu Zhuansun$^&dagger;$, **Yiji Lin$^&dagger;$**(Co-First author), Yuan Liu$^\*$, Binxing Fang, Zhihong Tian$^\*$.
 
-**Abstract**: With the rapid evolution of cyberattack techniques and increasing automation, Cybersecurity for Major Events faces growing challenges. Threats are marked by high speed, large-scale information gathering, and strong stealth, which limit traditional defenses by shortening the defense window and delaying risk identification. At the same time, critical business systems must ensure both high availability and external accessibility, further expanding network exposure and increasing defense difficulty.To address these challenges, the paper proposes a proactive deception defense mechanism grounded in motivational psychology and the no-egress dilemma. By leveraging attackers’ curiosity and exploratory motivations, a multi-module deception system is deployed in a cloud environment to construct a no-egress decoy space, guiding adversaries deeper and continuously revealing their behavior. In addition, a fuzzy logic-based curiosity model is developed to quantitatively analyze attacker motivations, thereby improving the accuracy of threat identification and behavior prediction.The mechanism was validated during the cybersecurity protection of the 9th Asian Winter Games and the 137th Canton Fair, where large-scale real-world attack data were collected and analyzed. Experimental results demonstrate that the proposed mechanism effectively captures and proactively identifies potential attackers without disrupting normal operations. These findings highlight its practical value in establishing a low-risk, proactive defense framework for major events.
+**Abstract**: Major events such as the Olympic Games pose unique cybersecurity challenges due to their high visibility, short duration, and complex system environments, making them prime targets for nation-state–level Advanced Persistent Threats (APTs). With sufficient preparation time, attackers often conduct early reconnaissance, among which large-scale password guessing against event-related systems is a recurrent preparatory behavior frequently observed before and during major events. Traditional defense mechanisms such as firewalls and honeypots can capture direct intrusion attempts but often overlook these pre-attack behaviors, missing valuable opportunities for early detection. 
+To address this gap, we propose a No-Answer Puzzle scheme, a lightweight and non-loginable password-interaction system tailored for major-event scenarios to capture pre-attack preparations from attackers.
+Based on motivational psychology, the persistent and covert behaviors of APT attacks are all driven by a strong curiosity towards the target  systems.
+Therefore, by the captured interaction data, we define an attacker curiosity metric,
+design a computational update mechanism, and develop a fuzzy-logic–based model for inferring attacker motivation. 
+The system was successfully deployed during the cybersecurity missions of the 2025 9th Asian Winter Games (Harbin) and the 137th China Import and Export Fair (Canton Fair), and real-world results demonstrate that it effectively captures and identifies potential attackers at an early stage without affecting normal system operations, thereby contributing substantially to achieving zero-incident security for major events.
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
@@ -61,7 +66,7 @@ Chenlu Zhuansun$^&dagger;$, **Yiji Lin$^&dagger;$**(Co-First author), Yuan Liu$^
 
 **HoneyCenter: A Honeypoint IP Mutation Strategy Optimization Based on Multi-Agent Reinforcement Learning**
 
-Pengdeng Li$^+$, **Yiji Lin$^+$**(Co-First author), Chenlu Zhuansun, Binxing Fang, Yuan Liu$^\*$, Zhihong Tian$^\*$.
+Pengdeng Li$^&dagger;$, **Yiji Lin$^&dagger;$**(Co-First author), Chenlu Zhuansun, Binxing Fang, Yuan Liu$^\*$, Zhihong Tian$^\*$.
 
 **Abstract**: APTs (Advanced Persistent Threats) on critical infrastructure such as smart grids and industrial control systems are growing increasingly severe. Although honeypoints, such as honeypots and honeybaits, have been widely adopted in cybersecurity, they still struggle to counter APTs as they can intelligently adjust strategies based on the current state of the system. Mutating the IP addresses of honeypoints has been recognized as an effective method for defending against various cyber attacks. However, in critical infrastructure, mutating the IP addresses requires careful design since improper strategy could lead to system instability or high costs such as service delay or interruption. Consequently, the defender needs to design a cost-effective honeypoint IP mutation strategy under the consideration of rational and smart APT attackers who can also adjust their attack strategies adaptively. To this end, first, we propose a dynamic two-player zero-sum game model HoneyCenter to characterize the strategic interaction between the defender and the attacker, where, in each state, the defender determines which host the honeypoint IP address should transition to, while the attacker selects one of the hosts to attack. Then, we leverage the Minimax Q-learning algorithm to derive the optimal mutation strategy to maximize the defender's utility in capturing the attacker. Finally, through extensive experiments, we demonstrate that the proposed game model and the derived IP mutation strategy can significantly enhance the security of the critical infrastructure in a cost-effective manner.
 
@@ -92,9 +97,9 @@ Qingyuan Li$^&dagger;$, Chenlu Zhuansun$^&dagger;$,**Yiji Lin**, Qingling Yang, 
 
 - Zhihong Tian, Yuan Liu; **Yiji Lin** et al. Offline Reinforcement Learning-Based Optimization of Deception Defense Strategies(Translated from Chinese), Patent No.202511144907.X, 2025-08-15. Application acceptance.
 
-- Yuan Liu; **Yiji Lin** et al. Graph Inference for Malicious Entity Detection Based on Subjective Logic Reputation Propagation (Translated from Chinese), 2025-08-01. Under examination.
+- Yuan Liu; **Yiji Lin** et al. [Graph Inference for Malicious Entity Detection Based on Subjective Logic Reputation Propagation (Translated from Chinese)](https://kns.cnki.net/kcms2/article/abstract?v=3ruWTMGvziUAFHZZa8RBX8W19v-BFNglIs7upxMr74FgEjWv6x2RCYm7gNAq_83oo4dxR-vS8TEqFs1z4riV0sO-Bz9IKZnfYsAyS1mntt7CqbVxa8u2tvYsnnyV2CfFiWc_X64jGkQnOJTaIQ0I33DR_b1nMpFQcJspohedlbvyPcxfVRRPrA==&uniplatform=NZKPT&language=CHS), 2025-09-05. Disclosed.
 
-- Yuan Liu; **Yiji Lin** et al. Early Detection of Cyberattack on Critical Activities (Translated from Chinese) , 2025-07-11. Under examination.
+- Yuan Liu; **Yiji Lin** et al. [Early Detection of Cyberattack on Critical Activities (Translated from Chinese)](https://kns.cnki.net/kcms2/article/abstract?v=3ruWTMGvziUAFHZZa8RBX8W19v-BFNglIs7upxMr74FgEjWv6x2RCZKfJyuyQ8vKqNdmh_n_Az25WbTjdQiBuS__C62dXjO8SzQadTjvTp0EYH1OkWXIJG6B4bOVQLvpf4F7zCQ-t5bd3ySLaqSBQ7cu4riwV03XlUJC-2zwt48f7TRh4kiLxQ==&uniplatform=NZKPT&language=CHS), No.CN120785661A, 2025-10-14. Disclosed.
 
 
  
