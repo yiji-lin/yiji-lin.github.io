@@ -33,7 +33,7 @@ My research interest includes:
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Under Review SCIS 2025 JCR:Q1 IF:7.6 CCF-A</div>
+      <div class="badge">Under Review at Science China Information Sciences(SCIS) 2025 JCR:Q1 IF:7.6 CCF-A</div>
         <div style="width:100%;height:500px; background:white;">
           <img src="images/paper3.png" alt="sym" 
               style="width:100%; height:100%; object-fit:contain; background:white;">
@@ -58,7 +58,7 @@ The system was successfully deployed during the cybersecurity missions of the 20
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review TCSS 2025 JCR:Q1 IF:4.9</div>        <div style="width:100%;height:500px; background:white;">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review at IEEE Transactions on Computational Social Systems(TCSS) 2025 JCR:Q1 IF:4.9</div>        <div style="width:100%;height:500px; background:white;">
           <img src="images/paper1.png" alt="sym" 
               style="width:100%; height:100%; object-fit:contain; background:white;">
         </div></div></div>
