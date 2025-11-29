@@ -58,8 +58,8 @@ The system was successfully deployed during the cybersecurity missions of the 20
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review at IEEE TCSS 2025 JCR:Q1 IF:4.9 CCF-C</div>        <div style="width:100%;height:500px; background:white;">
-          <img src="images/paper1.png" alt="sym" 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Revision at IEEE TCSS 2025 JCR:Q1 IF:4.9 CCF-C</div>        <div style="width:100%;height:500px; background:white;">
+          <img src="images/paper1_full.png" alt="sym" 
               style="width:100%; height:100%; object-fit:contain; background:white;">
         </div></div></div>
 <div class='paper-box-text' markdown="1">
