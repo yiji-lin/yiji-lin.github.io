@@ -35,7 +35,7 @@ My research interest includes:
     <div>
       <div class="badge">Under Review at SCIS 2025 JCR:Q1 IF:7.6 CCF-A</div>
         <div style="width:100%;height:500px; background:white;">
-          <img src="images/paper3.png" alt="sym" 
+          <img src="images/paper3_full.png" alt="sym" 
               style="width:100%; height:100%; object-fit:contain; background:white;">
         </div>
       </div>
@@ -77,7 +77,7 @@ Pengdeng Li$^&dagger;$, **Yiji Lin$^&dagger;$**(Co-First author), Chenlu Zhuansu
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Accepted by IEEE DSC 2025</div>        <div style="width:100%;height:500px; background:white;">
-          <img src="images/paper2.png" alt="sym" 
+          <img src="images/paper2_full.png" alt="sym" 
               style="width:100%; height:100%; object-fit:contain; background:white;">
         </div></div></div>
 <div class='paper-box-text' markdown="1">
