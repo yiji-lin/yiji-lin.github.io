@@ -16,8 +16,9 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+**I am looking for a Ph.D. position at the Fall 2026 or later intake.**
 
-I am a third-year Master’s student in Cyberspace Institute of Advanced Technology (headed by [Academician Binxing Fang](https://wyy.gzhu.edu.cn/info/1036/1459.htm)) at Guangzhou University([3rd in China for Cybersecurity](https://www.shanghairanking.cn/rankings/bcsr/2025/0839)), advised by [Prof. Yuan Liu](https://www.blockchain-neu.com/). Prior to that, I received my Bachelor’s degree in Computer Science and Technology from Jiaying University. To date, I have completed three academic papers and hold several patents.
+I am a final-year Master’s student in Cyberspace Institute of Advanced Technology (headed by [Academician Binxing Fang (方滨兴院士班)](https://wyy.gzhu.edu.cn/info/1036/1459.htm)) at Guangzhou University([3rd in China for Cybersecurity](https://www.shanghairanking.cn/rankings/bcsr/2025/0839)), advised by [Prof. Yuan Liu(刘园)](https://www.blockchain-neu.com/). Prior to that, I received my Bachelor’s degree in Computer Science and Technology from Jiaying University. To date, I have completed three academic papers and hold several patents.
 
 My research interest includes:
 - Game Theory and Mechanism Design 
@@ -25,9 +26,14 @@ My research interest includes:
 - Multi Agent Reinforcement Learning
 - Network Security
 
+
 # Education Background
 - *2023.09 - present*, Cyberspace Institute of Advanced Technology (CIAT), Guangzhou University, Guangzhou, China. 
 - *2020.09 - 2022.06*, School of Computer Science, Jiaying University, Meizhou, China. 
+
+#  Awards
+- *2025.10* China National Scholarship, By Ministry of Education of China (￥20000). 
+- *2024.10* The First Prize Scholarship in Guangzhou University (￥12000).
 
 # Publications
 <div class='paper-box'>
@@ -125,9 +131,7 @@ Qingyuan Li$^&dagger;$, Chenlu Zhuansun$^&dagger;$,**Yiji Lin**, Qingling Yang, 
 # Software Copyright
 - Guangzhou University, DunLiFang-Reputation System 2.0(Translated from Chinese), 2025SR1695922, Authorized. 
 
-#  Awards
-- *2025.10* China National Scholarship, By Ministry of Education of China. 
-- *2024.10* The First Prize Scholarship in Guangzhou University.
+
 
 #  Research Funding Supports
 - National Key R&D Program of Smart Grid, Grant No.2025ZD0805904.
