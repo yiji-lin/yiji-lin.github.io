@@ -34,6 +34,7 @@ My research interest includes:
 #  Awards
 - *2025.10* China National Scholarship, By Ministry of Education of China (￥20000). 
 - *2024.10* The First Prize Scholarship in Guangzhou University (￥12000).
+- *2025.01* TianRongXing Fang's Class Scholarship
 
 # Publications
 <div class='paper-box'>
