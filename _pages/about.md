@@ -40,7 +40,7 @@ My research interest includes:
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Under Review at SCIS 2025 JCR:Q1 IF:7.6 CCF-A</div>
+      <div class="badge">In Revision at SCIS 2025 JCR:Q1 IF:7.6 CCF-A</div>
         <div style="width:100%;height:500px; background:white;">
           <img src="images/paper3_full.png" alt="sym" 
               style="width:100%; height:100%; object-fit:contain; background:white;">
